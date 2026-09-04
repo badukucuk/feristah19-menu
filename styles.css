@@ -112,3 +112,8 @@ button {
     color: #83A190;
     font-size: 20px;
 }
+
+a[href^="tel:"] {
+    color: #83A190;
+    text-decoration: none;
+}
