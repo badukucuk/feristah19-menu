@@ -73,6 +73,12 @@ button {
     font-size: 11px;
 }
 
+.cal {
+    font-weight: 500;
+    font-size: 11px;
+    color: #83A190;
+}
+
 .el {
     color: #83A190;
 }
